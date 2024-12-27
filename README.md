@@ -40,7 +40,7 @@ My name is Maria and I'm a Frontend Developer <img src="https://media.giphy.com/
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Accercle&theme=dark&border_radius=4&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly&hide_current_streak=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Accercle&theme=dark&background=000000)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Accercle&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
